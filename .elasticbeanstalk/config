@@ -1,12 +1,12 @@
 [global]
-ApplicationName=AWStest
+ApplicationName=PLAy
 AwsCredentialFile=C:\Users\bglass\.elasticbeanstalk\aws_credential_file
 DevToolsEndpoint=git.elasticbeanstalk.eu-west-1.amazonaws.com
-EnvironmentName=AWStest-env
+EnvironmentName=PLAy-env
 EnvironmentTier=WebServer::Standard::1.0
 EnvironmentType=LoadBalanced
 InstanceProfileName=aws-elasticbeanstalk-ec2-role
-OptionSettingFile=C:\websites\AWStest\.elasticbeanstalk\optionsettings.AWStest-env
+OptionSettingFile=C:\websites\AWStest\.elasticbeanstalk\optionsettings.PLAy-env
 RdsEnabled=No
 Region=eu-west-1
 ServiceEndpoint=https://elasticbeanstalk.eu-west-1.amazonaws.com
